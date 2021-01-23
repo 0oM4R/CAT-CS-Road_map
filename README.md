@@ -48,7 +48,37 @@
 
 
 ## Before start you should know:
+----------- 
+▶ Who this road map for? 
+
+📌 This road map for anyone who: 
+- Need to start in the Computer Science field. 
+- Already started in technology and need to rebuild his/her knowledge with basics.
+
+-----------
 ▶  So Why “Computer scince fundmintls”?
-**If you need to climb stairs, you must tread the first stair.**
+
+📌**If you need to climb stairs, you must tread the first stair.**
+
 The CS fundamentals are the first stair in CS stairs, It will help you to understand how the computer works, how to deal with data, how to deal with code and many other things you should know to go freely on your career. Whatever the CS technology you choose to learn you need these fundamentals. 
 Many people who decided to start directly learn one of CS technology suffering from a Lack of some skills and information and they wasting their times to go back and learn what they need and the process is repeated continuously.
+
+------------
+
+▶ What do we need to start?
+
+📌 Just take the decision to learn, and go ahead!
+> **You do not need any requirements to start, you only need Passion, Power, patience and Persistence**
+
+------------
+
+▶ What is a good resource to study?
+
+📌 You should know that the computer science field is not easy or clear and it takes time, one of the reasons is there are many resources, this makes many of us dispersed.
+So remember there is no clear path to you or path from 0 to hero.
+
+📌We make an effort to make our paths in this field. We are trying to make it easier by taking advice, good resources, how to study smart, and be in touch with new technologies from other mentors.
+
+>And here we put it all in your hand!
+
+-----------
