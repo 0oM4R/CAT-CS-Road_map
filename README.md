@@ -128,11 +128,13 @@ Might be a little leaning on the theoretical side, and that’s because it repre
 		- General stuff (recursion, dicts, exceptions, ...)
 
 - [CS50 ](https://www.edx.org/course/cs50s-introduction-to-computer-science "CS50 ")
+
 		- Programming with C (pointers, references)
 		- Basic data structures in C (linked lists).
 >The C part only "for now".
 
 - [Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm "Mathematics for computer science")
+
 		- Proofs to understand algorithms analysis and the language they use for its description
 		- Counting and basic probability
 		- Some discrete mathematics 
@@ -142,10 +144,9 @@ Might be a little leaning on the theoretical side, and that’s because it repre
 
 - Databases
 
-		- [Relational Databases and SQL ](https://www.edx.org/course/databases-5-sql "Relational Databases and SQL ")
-		- [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory "Databases: Modeling and Theory")
-		- [Databases: Semistructured Data ](https://www.edx.org/course/semistructured-data "Databases: Semistructured Data ")
-
+	- [Relational Databases and SQL ](https://www.edx.org/course/databases-5-sql "-Relational Databases and SQL ")
+	- [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory "Databases: Modeling and Theory")
+	- [Databases: Semistructured Data ](https://www.edx.org/course/semistructured-data "Databases: Semistructured Data ")
 
 - [ Introduction to Computer Networking ](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG " Introduction to Computer Networking ")
 
