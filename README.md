@@ -170,8 +170,8 @@ The roadmap might be focusing more on the thoertical side, That's because it is 
 - [CS50 ](https://www.edx.org/course/cs50s-introduction-to-computer-science "CS50 ")
 
 		- Programming with C (Memory Management).
-		- Basic Data Structures and Algorithms in C (Sorting and Searching Algorithms, Linked lists, Trees, Hash Table, Queues, Stacks).
-		
+		- Basic Data Structures and Algorithms in C 
+				Sorting and Searching Algorithms, Linked lists, Trees, Hash Table, Queues, Stacks
 >The C part only "for now".
 
 - [Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm "Mathematics for computer science")
