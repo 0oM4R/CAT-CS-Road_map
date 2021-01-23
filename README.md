@@ -172,4 +172,18 @@ Might be a little leaning on the theoretical side, and that’s because it repre
 |  OS |  66 |
 
 
+--------------
+# Technical Mentor
 
+## 👑 [Omar Elawady](https://www.linkedin.com/in/omar-elawady-96b1ab139/ "Omar Elawady")
+
+
+-------------
+
+**Finally, I want to thank everyone who helped and who keeps helps me to reach this point.
+I can't express how grateful I'm.**
+
+#### Good luck to everyone!
+
+
+------------
