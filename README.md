@@ -217,9 +217,9 @@ The roadmap might be focusing more on the thoertical side, That's because it is 
 
 ## Finally
 
-**I want to thank everyone who helped and who keeps helps me to reach this point.
+**I want to thank everyone who helped and who keeps helps me to reach this point.**
 
-I can't express how grateful I'm.**
+**I can't express how grateful I'm. **
 
 #### Good luck to everyone!
 
