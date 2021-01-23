@@ -2,7 +2,7 @@
 
 |  📚 Content |
 | :------------: |
-|  [Computer science circle](http://https://github.com/0oM4R/CAT-CS-Road_map#computer-science-circle "Computer science circle") |
+|  [Computer science circle](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#computer-science-circle) |
 |[Our Mentor](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#technical-mentor "Our Mentor")|
 | [CAT Reloaded](https://github.com/0oM4R/CAT-CS-Road_map#cat-reloaded "CAT Reloaded")  |
 |  [Before start](https://github.com/0oM4R/CAT-CS-Road_map#before-start-you-should-know "Before start") |
