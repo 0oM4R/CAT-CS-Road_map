@@ -126,7 +126,7 @@ Might be a little leaning on the theoretical side, and that’s because it repre
 - [Introduction to computer science and programming in python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm "Introduction to computer science and programming in python")
 
 		- Provide an understanding of the role computation can play in solving problems.
-		- General stuff (Brancing and Iteration, String Manipulation, Functions, Recursion, Dicts, Exceptions, ...).
+		- General stuff (Branching and Iteration, String Manipulation, Functions, Recursion, Dicts, Exceptions, ...).
 		- Intro to OOP.
 
 - [CS50 ](https://www.edx.org/course/cs50s-introduction-to-computer-science "CS50 ")
