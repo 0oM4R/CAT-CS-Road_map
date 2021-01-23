@@ -125,13 +125,14 @@ Might be a little leaning on the theoretical side, and that’s because it repre
 
 - [Introduction to computer science and programming in python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm "Introduction to computer science and programming in python")
 
-		- Has some OOP
-		- General stuff (recursion, dicts, exceptions, ...)
+		- Provide an understanding of the role computation can play in solving problems.
+		- General stuff (Brancing and Iteration, String Manipulation, Functions, Recursion, Dicts, Exceptions, ...).
+		- Intro to OOP.
 
 - [CS50 ](https://www.edx.org/course/cs50s-introduction-to-computer-science "CS50 ")
 
-		- Programming with C (pointers, references)
-		- Basic data structures in C (linked lists).
+		- Programming with C (Memory Management).
+		- Basic Data Structures and Algorithms in C (Sorting and Searching Algorithms, Linked lists, Trees, Hash Table, Queues, Stacks).
 		
 >The C part only "for now".
 
