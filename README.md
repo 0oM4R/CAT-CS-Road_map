@@ -99,7 +99,7 @@ So remember there is no clear path to you or path from 0 to hero.
 
 ----------
 
-##Road Map Goal :
+## Road Map Goal :
 
 A lot of newcomers and even those who went directly into applications have issues with delving deeper into topics because of the lack of basics. And that’s why this roadmap was made.
 
@@ -107,7 +107,7 @@ A lot of newcomers and even those who went directly into applications have issue
 
 -----------
 
-##Time commitment :
+## Time commitment :
 
 📌 From 6 to 20 hours a week.
 
@@ -115,7 +115,7 @@ It’s mainly directed to students in their first years to be taken alongside th
 
 --------
 
-###Main topics :
+### Main topics :
 
 The roadmap might be focusing more on the thoertical side, That's because it is the base we'll be building upon when learning any field or any new technology, There’re other circles like (backend, data science, game development, and security) that focus on the practical part.
 
