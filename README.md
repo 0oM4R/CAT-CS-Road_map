@@ -1,7 +1,7 @@
 # CAT-Reloaded-Computer-Sciense-Cirlcle-Road-Map
 
- |📚 Content  |
-| ------------ |
+|  📚 Content |
+| :------------: |
 |  [Computer science circle](http://https://github.com/0oM4R/CAT-CS-Road_map#computer-science-circle "Computer science circle") |
 | [CAT Reloaded](https://github.com/0oM4R/CAT-CS-Road_map#cat-reloaded "CAT Reloaded")  |
 |  [Before start](https://github.com/0oM4R/CAT-CS-Road_map#before-start-you-should-know "Before start") |
@@ -106,7 +106,12 @@ So remember there is no clear path to you or path from 0 to hero.
 
 ## Here we go !
 
-
+|   🔎 Roadmap   |
+| :------------: |
+|[Goal](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#road-map-goal- "Goal")|
+|[Time commitment](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#time-commitment- "Time commitment")|
+|[Main topics](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#main-topics- "Main topics")|
+| |
 
 ### Road Map Goal :
 
@@ -182,7 +187,7 @@ The roadmap might be focusing more on the thoertical side, That's because it is 
 
 ----------
 
-▶Timeline
+### Timeline
 
 |  Course |  Number of hours |
 | :------------: | :------------: |
