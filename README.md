@@ -119,4 +119,36 @@ Might be a little leaning on the theoretical side, and that’s because it repre
 
 ---------
 
+▶Courses
+
+📌 They are based on the plan of [OSSU](https://github.com/ossu/computer-science "OSSU").      They should be taken as is, with their assignments and readings fully completed.
+
+- [Introduction to computer science and programming in python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm "Introduction to computer science and programming in python")
+		- Has some OOP
+		- General stuff (recursion, dicts, exceptions, ...)
+
+- [CS50 ](https://www.edx.org/course/cs50s-introduction-to-computer-science "CS50 ")
+		- Programming with C (pointers, references)
+		- Basic data structures in C (linked lists).
+>The C part only "for now".
+
+- [Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm "Mathematics for computer science")
+		- Proofs to understand algorithms analysis and the language they use for its description
+		- Counting and basic probability
+		- Some discrete mathematics 
+
+- [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer "Divide and Conquer, Sorting and Searching, and Randomized Algorithms")
+- [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures "Graph Search, Shortest Paths, and Data Structures")
+
+- Databases
+
+		- [Relational Databases and SQL ](https://www.edx.org/course/databases-5-sql "Relational Databases and SQL ")
+		- [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory "Databases: Modeling and Theory")
+		- [Databases: Semistructured Data ](https://www.edx.org/course/semistructured-data "Databases: Semistructured Data ")
+
+
+- [ Introduction to Computer Networking ](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG " Introduction to Computer Networking ")
+
+- [Operating Systems: Three Easy Pieces ](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/ "Operating Systems: Three Easy Pieces ")
+
 
