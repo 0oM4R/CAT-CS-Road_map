@@ -108,14 +108,14 @@ Might be a little leaning on the theoretical side, and that’s because it repre
 
 📌 So here are the topics that should be covered.
 
-	 Introduction To Computer Science
-	 Python And C Language
-	 Object-Oriented Programming
-	 Algorithms And Data Structures
-	 Discrete Mathematics For Computer Science
-	 Operating Systems
-	 Networking
-	 Databases
+	 1. Introduction To Computer Science
+	 2.Python And C Language
+	 3.Object-Oriented Programming
+	 4.Algorithms And Data Structures
+	 5.Discrete Mathematics For Computer Science
+	 6.Operating Systems
+	 7.Networking
+	 8.Databases
 
 ---------
 
