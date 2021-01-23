@@ -44,9 +44,19 @@
 📌 Almost every year we host a recruitment [Event](https://www.facebook.com/events/375956410319681/?active_tab=discussion "Event") in Mansoura University to attract all of the interested students in Computer Science in general, categorizing them in Circles meant for different fields.
 
 ![CAT Logo](img/m.jpg)
+
 ------------
 
+## Computer science circle
+📌 we are one of many circles at CAT-Reloaded, We are focusing on CS fundamentals.
 
+I'm the circle leader and I have great people supervising the members in our circle. 
+
+feel free to contact us!
+
+[Omar Kassem](https://www.linkedin.com/in/omar-kassem/ "Omar Kassem"), [Mohamed Elkhamisy](https://www.linkedin.com/in/elkhamisi/ "Mohamed Elkhamisy"), [Mohamed Mohey](https://www.linkedin.com/in/mohamed-mohey/ "Mohamed Mohey"), [Mohamed Magdi](https://www.linkedin.com/in/muhamedmagdi/ "Mohamed Magdi"), [Waleed Negm](https://www.linkedin.com/in/waleed-negm/ "Waleed Negm"), [Hoassam Assad](https://www.linkedin.com/in/hossamasaad10/ "Hoassam Assad"), [Hend Elhadidy](https://www.linkedin.com/in/hend-el-hadidy-1001269b/ "Hend Elhadidy") and [Menna Magdy](https://www.linkedin.com/in/menna-magdy-216b661aa/ "Menna Magdy")
+
+----------
 ## Before start, You should know:
 ----------- 
 ▶ Who is this road map for? 
