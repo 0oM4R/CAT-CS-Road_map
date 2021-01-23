@@ -49,19 +49,19 @@
 
 ## Before start, You should know:
 ----------- 
-▶ Who this road map for? 
+▶ Who is this road map for? 
 
-📌 This road map for anyone who: 
-- Need to start in the Computer Science field. 
-- Already started in technology and need to rebuild his/her knowledge with basics.
+📌 This road map is for anyone who: 
+- Needs to start in the Computer Science field. 
+- Already started in technology and needs to rebuild his/her knowledge with basics.
 
 -----------
-▶  So Why “Computer scince fundmintls”?
+▶  So Why “Computer Science Fundmentals”?
 
 📌**If you need to climb stairs, you must tread the first stair.**
 
-The CS fundamentals are the first stair in CS stairs, It will help you to understand how the computer works, how to deal with data, how to deal with code and many other things you should know to go freely on your career. Whatever the CS technology you choose to learn you need these fundamentals. 
-Many people who decided to start directly learn one of CS technology suffering from a Lack of some skills and information and they wasting their times to go back and learn what they need and the process is repeated continuously.
+The CS fundamentals are the first stair in CS stairs, It will help you to understand how the computer works, how to deal with data, how to deal with code and many other things you should know to go freely on your career. Whatever the CS technology you choose to learn, you need these fundamentals. 
+Many people who decided to start directly learning one of CS technology are suffering from a lack of some skills and information and they waste their times to go back and learn what they need and the process is repeated continuously.
 
 ------------
 
@@ -118,38 +118,5 @@ Might be a little leaning on the theoretical side, and that’s because it repre
 	 8.Databases
 
 ---------
-
-▶Courses
-
-📌 They are based on the plan of [OSSU](https://github.com/ossu/computer-science "OSSU").      They should be taken as is, with their assignments and readings fully completed.
-
-- [Introduction to computer science and programming in python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm "Introduction to computer science and programming in python")
-		- Has some OOP
-		- General stuff (recursion, dicts, exceptions, ...)
-
-- [CS50 ](https://www.edx.org/course/cs50s-introduction-to-computer-science "CS50 ")
-
-		- Programming with C (pointers, references)
-		- Basic data structures in C (linked lists).
->The C part only "for now".
-
-- [Mathematics for computer science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm "Mathematics for computer science")
-
-		- Proofs to understand algorithms analysis and the language they use for its description
-		- Counting and basic probability
-		- Some discrete mathematics 
-
-- [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer "Divide and Conquer, Sorting and Searching, and Randomized Algorithms")
-- [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures "Graph Search, Shortest Paths, and Data Structures")
-
-- Databases
-
-	- [Relational Databases and SQL ](https://www.edx.org/course/databases-5-sql "-Relational Databases and SQL ")
-	- [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory "Databases: Modeling and Theory")
-	- [Databases: Semistructured Data ](https://www.edx.org/course/semistructured-data "Databases: Semistructured Data ")
-
-- [ Introduction to Computer Networking ](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG " Introduction to Computer Networking ")
-
-- [Operating Systems: Three Easy Pieces ](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/ "Operating Systems: Three Easy Pieces ")
 
 
