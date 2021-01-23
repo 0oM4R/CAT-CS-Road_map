@@ -99,7 +99,7 @@ So remember there is no clear path to you or path from 0 to hero.
 
 ----------
 
-## Road Map Goal :
+### Road Map Goal :
 
 A lot of newcomers and even those who went directly into applications have issues with delving deeper into topics because of the lack of basics. And that’s why this roadmap was made.
 
@@ -107,7 +107,7 @@ A lot of newcomers and even those who went directly into applications have issue
 
 -----------
 
-## Time commitment :
+### Time commitment :
 
 📌 From 6 to 20 hours a week.
 
@@ -133,7 +133,7 @@ The roadmap might be focusing more on the thoertical side, That's because it is 
 
 ---------
 
-▶Courses
+## Courses
 
 📌 They are based on the plan of [OSSU](https://github.com/ossu/computer-science "OSSU").      They should be taken as is, with their assignments and readings fully completed.
 
