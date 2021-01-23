@@ -3,10 +3,10 @@
 |  📚 Content |
 | :------------: |
 |  [Computer science circle](http://https://github.com/0oM4R/CAT-CS-Road_map#computer-science-circle "Computer science circle") |
+|[Our Mentor](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#technical-mentor "Our Mentor")|
 | [CAT Reloaded](https://github.com/0oM4R/CAT-CS-Road_map#cat-reloaded "CAT Reloaded")  |
 |  [Before start](https://github.com/0oM4R/CAT-CS-Road_map#before-start-you-should-know "Before start") |
-| [Roadmap](http://https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#here-we-go- "Roadmap")  |
-|[Our Mentor](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#technical-mentor "Our Mentor")|
+| [Roadmap](http://https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#here-we-go- "Here we go !")  |
 |[Finally](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#Finally "Finally")|
 
 
@@ -18,7 +18,7 @@
 I'm the circle leader and I have great people supervising the members in our circle. 
 
 feel free to contact us!
-[Omar Kassem](https://www.linkedin.com/in/omar-kassem/ "Omar Kassem"), [Mohamed Elkhamisy](https://www.linkedin.com/in/elkhamisi/ "Mohamed Elkhamisy"), [Mohamed Mohey](https://www.linkedin.com/in/mohamed-mohey/ "Mohamed Mohey"), [Mohamed Magdi](https://www.linkedin.com/in/muhamedmagdi/ "Mohamed Magdi"), [Waleed Negm](https://www.linkedin.com/in/waleed-negm/ "Waleed Negm"), [Hoassam Assad](https://www.linkedin.com/in/hossamasaad10/ "Hoassam Assad")and [Menna Magdy](https://www.linkedin.com/in/menna-magdy-216b661aa/ "Menna Magdy")
+[Omar Kassem](https://www.linkedin.com/in/omar-kassem/ "Omar Kassem"), [Mohamed Elkhamisy](https://www.linkedin.com/in/elkhamisi/ "Mohamed Elkhamisy"), [Mohamed Mohey](https://www.linkedin.com/in/mohamed-mohey/ "Mohamed Mohey"), [Mohamed Magdi](https://www.linkedin.com/in/muhamedmagdi/ "Mohamed Magdi"), [Waleed Negm](https://www.linkedin.com/in/waleed-negm/ "Waleed Negm"), [Hoassam Assad](https://www.linkedin.com/in/hossamasaad10/ "Hoassam Assad") and [Menna Magdy](https://www.linkedin.com/in/menna-magdy-216b661aa/ "Menna Magdy")
 
 --------------
 
