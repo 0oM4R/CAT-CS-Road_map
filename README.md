@@ -6,6 +6,9 @@
 | [CAT Reloaded](https://github.com/0oM4R/CAT-CS-Road_map#cat-reloaded "CAT Reloaded")  |
 |  [Before start](https://github.com/0oM4R/CAT-CS-Road_map#before-start-you-should-know "Before start") |
 | [Roadmap](http://https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#here-we-go- "Roadmap")  |
+|[Our Mentor](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#technical-mentor "Our Mentor")|
+|[Finally](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#Finally "Finally")|
+
 
 -------------
 
@@ -20,7 +23,15 @@ feel free to contact us!
 
 ![Circle supervisor](img/photo_2021-01-23_20-51-49.png)
 
-----------
+--------------
+
+# Technical Mentor
+
+## 👑 [Omar Elawady](https://www.linkedin.com/in/omar-elawady-96b1ab139/ "Omar Elawady")
+
+
+-------------
+
 ## [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded")
 
 ![CAT Logo](img/icon.png)
@@ -111,7 +122,8 @@ So remember there is no clear path to you or path from 0 to hero.
 |[Goal](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#road-map-goal- "Goal")|
 |[Time commitment](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#time-commitment- "Time commitment")|
 |[Main topics](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#main-topics- "Main topics")|
-| |
+|[Courses](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#courses "Courses")|
+|[Timeline](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#timeline "Timeline")|
 
 ### Road Map Goal :
 
@@ -201,19 +213,12 @@ The roadmap might be focusing more on the thoertical side, That's because it is 
 |  OS |  66 |
 
 
---------------
-# Technical Mentor
+---------------
 
-## 👑 [Omar Elawady](https://www.linkedin.com/in/omar-elawady-96b1ab139/ "Omar Elawady")
+##Finally
 
+**I want to thank everyone who helped and who keeps helps me to reach this point.
 
--------------
-
-Feel free to talk with me **[Omar Kassem](https://www.linkedin.com/in/omar-kassem/ "Omar Kassem")** .
-
-------------
-
-**Finally, I want to thank everyone who helped and who keeps helps me to reach this point.
 I can't express how grateful I'm.**
 
 #### Good luck to everyone!
