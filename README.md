@@ -157,7 +157,7 @@ The roadmap might be focusing more on the thoertical side, That's because it is 
 
 ---------
 
-## Courses
+### Courses
 
 📌 They are based on the plan of [OSSU](https://github.com/ossu/computer-science "OSSU").      They should be taken as is, with their assignments and readings fully completed.
 
@@ -215,7 +215,7 @@ The roadmap might be focusing more on the thoertical side, That's because it is 
 
 ## Finally
 
-**I want to thank everyone who helped and who keeps helping me to reach this point.**
+**I want to thank everyone who helped me to reach this point and those who keep helping me.**
 
 **I can't express how grateful I'm.**
 
