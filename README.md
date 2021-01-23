@@ -104,7 +104,8 @@ It’s mainly directed to students in their first years to be taken alongside th
 
 ▶ Main topics :
 
-Might be a little leaning on the theoretical side, and that’s because it represents the basis on which they will build the application on whatever field they chose. There’re are other circles like (backend, data science, game development, and security) that focus on the practical part.
+The roadmap might be focusing more on the thoertical side, That's because it is the base we'll be building upon when learning any field or any new technology, There’re other circles like (backend, data science, game development, and security) that focus on the practical part.
+
 
 📌 So here are the topics that should be covered.
 
