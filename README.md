@@ -47,7 +47,7 @@
 ------------
 
 
-## Before start you should know:
+## Before start, You should know:
 ----------- 
 ▶ Who this road map for? 
 
@@ -82,3 +82,41 @@ So remember there is no clear path to you or path from 0 to hero.
 >And here we put it all in your hand!
 
 -----------
+
+## Here we go !
+
+
+▶ Road Map Goal :
+
+A lot of newcomers and even those who went directly into applications have issues with delving deeper into topics because of the lack of basics. And that’s why this roadmap was made.
+
+📌 The goal is to learn the basics of computer science using which they can progress in multiple disciplines.
+
+-----------
+
+▶ Time commitment :
+
+📌 From 6 to 20 hours a week.
+
+It’s mainly directed to students in their first years to be taken alongside their study. That’s why the number of hours might be less than what is expected from a full-time learner.
+
+--------
+
+▶ Main topics :
+
+Might be a little leaning on the theoretical side, and that’s because it represents the basis on which they will build the application on whatever field they chose. There’re are other circles like (backend, data science, game development, and security) that focus on the practical part.
+
+📌 So here are the topics that should be covered.
+
+	 Introduction To Computer Science
+	 Python And C Language
+	 Object-Oriented Programming
+	 Algorithms And Data Structures
+	 Discrete Mathematics For Computer Science
+	 Operating Systems
+	 Networking
+	 Databases
+
+---------
+
+
