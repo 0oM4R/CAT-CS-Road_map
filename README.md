@@ -1,6 +1,17 @@
 # CAT-Reloaded-Computer-Sciense-Cirlcle-Road-Map
 
+## Computer science circle
+📌 we are one of many circles at [CAT-Reloaded](https://github.com/0oM4R/CAT-CS-Road_map#cat-reloaded), We are focusing on CS fundamentals.
 
+I'm the circle leader and I have great people supervising the members in our circle. 
+
+feel free to contact us!
+
+[Omar Kassem](https://www.linkedin.com/in/omar-kassem/ "Omar Kassem"), [Mohamed Elkhamisy](https://www.linkedin.com/in/elkhamisi/ "Mohamed Elkhamisy"), [Mohamed Mohey](https://www.linkedin.com/in/mohamed-mohey/ "Mohamed Mohey"), [Mohamed Magdi](https://www.linkedin.com/in/muhamedmagdi/ "Mohamed Magdi"), [Waleed Negm](https://www.linkedin.com/in/waleed-negm/ "Waleed Negm"), [Hoassam Assad](https://www.linkedin.com/in/hossamasaad10/ "Hoassam Assad"), [Hend Elhadidy](https://www.linkedin.com/in/hend-el-hadidy-1001269b/ "Hend Elhadidy") and [Menna Magdy](https://www.linkedin.com/in/menna-magdy-216b661aa/ "Menna Magdy")
+
+![CAT Logo](img/photo_2021-01-23_20-51-49.jpg)
+
+----------
 ## [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded")
 
 ![CAT Logo](img/icon.png)
@@ -55,6 +66,8 @@ I'm the circle leader and I have great people supervising the members in our cir
 feel free to contact us!
 
 [Omar Kassem](https://www.linkedin.com/in/omar-kassem/ "Omar Kassem"), [Mohamed Elkhamisy](https://www.linkedin.com/in/elkhamisi/ "Mohamed Elkhamisy"), [Mohamed Mohey](https://www.linkedin.com/in/mohamed-mohey/ "Mohamed Mohey"), [Mohamed Magdi](https://www.linkedin.com/in/muhamedmagdi/ "Mohamed Magdi"), [Waleed Negm](https://www.linkedin.com/in/waleed-negm/ "Waleed Negm"), [Hoassam Assad](https://www.linkedin.com/in/hossamasaad10/ "Hoassam Assad"), [Hend Elhadidy](https://www.linkedin.com/in/hend-el-hadidy-1001269b/ "Hend Elhadidy") and [Menna Magdy](https://www.linkedin.com/in/menna-magdy-216b661aa/ "Menna Magdy")
+
+![CAT Logo](img/photo_2021-01-23_20-51-49.jpg)
 
 ----------
 ## Before start, You should know:
