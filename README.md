@@ -117,11 +117,11 @@ So remember there is no clear path to you or path from 0 to hero.
 
 |   🔎 Roadmap   |
 | :------------: |
-|[Goal](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#road-map-goal- "Goal")|
-|[Time commitment](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#time-commitment- "Time commitment")|
-|[Main topics](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#main-topics- "Main topics")|
-|[Courses](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#courses "Courses")|
-|[Timeline](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#timeline "Timeline")|
+|[Goal](#road-map-goal- "Goal")|
+|[Time commitment](#time-commitment- "Time commitment")|
+|[Main topics](#main-topics- "Main topics")|
+|[Courses](#courses "Courses")|
+|[Timeline](#timeline "Timeline")|
 
 ### Road Map Goal :
 
@@ -146,7 +146,7 @@ The roadmap might be focusing more on the thoertical side, That's because it is 
 
 📌 So here are the topics that should be covered.
 
-	 1. Introduction To Computer Science
+	 1.Introduction To Computer Science
 	 2.Python And C Language
 	 3.Object-Oriented Programming
 	 4.Algorithms And Data Structures
