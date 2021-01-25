@@ -2,12 +2,12 @@
 
 |  📚 Content |
 | :------------: |
-|  [Computer science circle](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#computer-science-circle) |
-|[Our Mentor](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#technical-mentor "Our Mentor")|
-| [CAT Reloaded](https://github.com/0oM4R/CAT-CS-Road_map#cat-reloaded "CAT Reloaded")  |
-|  [Before start](https://github.com/0oM4R/CAT-CS-Road_map#before-start-you-should-know "Before start") |
-| [Roadmap](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#here-we-go-)  |
-|[Finally](https://github.com/0oM4R/CAT-CS-Road_map/blob/master/README.md#Finally "Finally")|
+|  [Computer science circle](#computer-science-circle) |
+|[Our Mentor](#technical-mentor "Our Mentor")|
+| [CAT Reloaded](#cat-reloaded "CAT Reloaded")  |
+|  [Before start](#before-start-you-should-know "Before start") |
+| [Roadmap](#here-we-go-)  |
+|[Finally](#Finally "Finally")|
 
 
 -------------
